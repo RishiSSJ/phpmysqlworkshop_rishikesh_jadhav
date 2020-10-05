@@ -1,6 +1,6 @@
 <?php  
-$x=12;
-$y=10;
+$x=28;
+$y=17;
 echo "x = ".$x;
 echo "<br>";
 echo "y = ".$y;
