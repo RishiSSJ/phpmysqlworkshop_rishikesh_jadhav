@@ -1,6 +1,6 @@
 <?php
 
-$char='a';
+$char='i';
 
 switch ($char) {
     case 'a':
